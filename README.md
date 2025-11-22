@@ -20,7 +20,11 @@ HBC recursively scans a source folder (and all nested subfolders), finds support
 
 A short demo video is included in this repository as `DemoVideo.mp4`.
 
-[▶️ Watch the demo](DemoVideo.mp4)
+
+
+https://github.com/user-attachments/assets/584de2e5-9f3d-47a8-baf9-16a0e29a23d9
+
+
 
 The demo briefly shows:
 - Launching HBC.

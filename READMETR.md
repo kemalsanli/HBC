@@ -20,7 +20,7 @@ Uygulama, seçtiğin kaynak klasörü (ve tüm alt klasörlerini) özyinelemeli 
 
 Bu depo içerisinde `DemoVideo.mp4` isminde kısa bir demo videosu bulunur.
 
-[▶️ Demoyu izle](DemoVideo.mp4)
+https://github.com/user-attachments/assets/363d9826-3db1-46ae-b82e-f661e34280e3
 
 Demo kısaca şunları gösterir:
 - HBC’nin başlatılması,

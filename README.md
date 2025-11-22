@@ -1,3 +1,5 @@
+> 🇬🇧 English | [🇹🇷 Türkçe](READMETR.md)
+
 # HandBrake Batch Compressor (HBC)
 
 A small, focused macOS utility that batches video compression with **HandBrakeCLI** – one folder, one click, no manual queue juggling.
@@ -11,6 +13,21 @@ HBC recursively scans a source folder (and all nested subfolders), finds support
 
 > **Note:** HBC is an independent, unofficial project. It is **not** affiliated with or endorsed by the HandBrake team.  
 > All credit for the actual video encoding goes to the amazing [HandBrake](https://handbrake.fr/) project and its contributors.
+
+---
+
+## Demo
+
+A short demo video is included in this repository as `DemoVideo.mp4`.
+
+[▶️ Watch the demo](DemoVideo.mp4)
+
+The demo briefly shows:
+- Launching HBC.
+- Selecting a source folder that contains video files.
+- Starting a batch with the default settings.
+- Watching the progress and status updates while files are processed.
+- Reviewing the compressed output folder once the run is complete.
 
 ---
 

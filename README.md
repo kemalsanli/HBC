@@ -149,7 +149,7 @@ There are two typical ways to run HBC:
 2. Drag the `HBC.app` (or similarly named app bundle) into your `/Applications` folder.
 3. Launch the app from Launchpad or Finder.
 
-> If macOS Gatekeeper warns you about an unidentified developer, you may need to right‑click the app and choose **Open** once to approve it.
+> On recent versions of macOS, if Gatekeeper warns you about an unidentified developer and only offers **Move to Bin**, open **System Settings → Privacy & Security**, scroll to the **Security** section and click **Open Anyway** next to HBC, then confirm in the dialog. On older macOS versions you can usually just right‑click the app in Finder and choose **Open** once to approve it.
 
 ### From source (for developers)
 

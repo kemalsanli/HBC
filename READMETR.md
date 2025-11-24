@@ -147,7 +147,7 @@ HBC’yi çalıştırmanın iki yaygın yolu vardır:
 2. `HBC.app` (veya benzer isimli uygulama paketi) dosyasını `/Applications` klasörüne taşı,
 3. Uygulamayı Launchpad veya Finder üzerinden başlat.
 
-> Eğer macOS Gatekeeper, kimliği tanınmayan geliştirici uyarısı verirse, uygulamaya sağ tıklayıp bir kez **Open** diyerek onaylaman gerekebilir.
+> Yeni macOS sürümlerinde Gatekeeper, kimliği doğrulanmamış geliştirici uyarısında bazen yalnızca **Çöpe Taşı** seçeneğini gösterir. Bu durumda **Sistem Ayarları → Gizlilik ve Güvenlik** bölümüne gidip, **Güvenlik** kısmında HBC için görünen **Yine de Aç** düğmesine tıklayarak uygulamayı onaylayabilirsin. Daha eski macOS sürümlerinde ise genellikle Finder’da uygulamaya sağ tıklayıp bir kez **Open / Aç** demen yeterlidir.
 
 ### Kaynaktan derleme (geliştiriciler için)
 

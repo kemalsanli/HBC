@@ -13,7 +13,7 @@ struct InstallHandBrakeView: View {
     @ObservedObject var localization: LocalizationController
     
     private let homebrewCommand = #"/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)""#
-    private let handbrakeCommand = "brew install handbrake-cli"
+    private let handbrakeCommand = "brew install handbrake"
     
     @State private var handbrakeInstalled: Bool = false
     @State private var didRunInitialChecks: Bool = false
